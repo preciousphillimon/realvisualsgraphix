@@ -6,6 +6,10 @@ header { background: #D24C00; color: skyblue; padding:
 }
 section {
   color: white;
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+}
 }
 .gallery { display: flex; flex-wrap: wrap; 
   justify-content: center; gap: 10px; margin: 20px;
