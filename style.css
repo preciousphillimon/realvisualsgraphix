@@ -4,6 +4,9 @@ body { font-family: sans-serif; text-align: center;
 header { background: #D24C00; color: skyblue; padding: 
   20px;
 }
+section {
+  color: white;
+}
 .gallery { display: flex; flex-wrap: wrap; 
   justify-content: center; gap: 10px; margin: 20px;
 }
