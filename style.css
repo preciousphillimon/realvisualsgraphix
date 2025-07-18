@@ -10,3 +10,6 @@ header { background: #D24C00; color: skyblue; padding:
 .gallery img { width: 200px; border-radius: 10px; 
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
+footer {
+  color: white;
+}
